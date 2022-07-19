@@ -2,7 +2,7 @@
 
 The dashboard presents the real estate market in Cracow. The aim of the project is to quickly analyze the market situation, verify the determinants of housing prices and the impact of location. Dashboard prepared in 3 hours block, I will develop this project in the future. 
 
-![](gif2.gif)
+![](gif1.gif)
 
 #### Project Status: [Active]
 
@@ -20,7 +20,7 @@ The dashboard presents the real estate market in Cracow. The aim of the project 
 * Numpy, Pandas
 
 
-![](gif1.gif)
+![](gif2.gif)
 
 
 ### Model Building Steps
