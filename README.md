@@ -29,10 +29,9 @@ The dashboard presents the real estate market in Cracow. The aim of the project 
 * dashboard building in Tableau
 
 ## Getting Started
-
-1. Tableau file is being kept in the file Titanic.xls.
+1. Tableau file is being kept in the file HousePricesInCracow.twbx.
 2. Data processing scripts are being kept in the file DataCleaning.py.
 
 ## Contact
-* Please feel free to reach me on my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
+* Please feel free to reach me through my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
 
